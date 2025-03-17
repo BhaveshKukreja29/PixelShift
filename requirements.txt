@@ -1,0 +1,5 @@
+streamlit
+fastapi
+celery
+redis
+boto3
